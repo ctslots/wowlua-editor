@@ -1,0 +1,15 @@
+## Interface: 70300
+## Title: WowLua
+## Version: v70300-1.0.1-d0fabe1
+## Author: Cladhaire
+## Notes: Interactive Lua interpreter and scratchpad
+## LoadManagers: AddonLoader
+## X-LoadOn-Slash: /wowlua, /lua, /wowluarun, /luarun
+## SavedVariables: WowLua_DB
+
+Localization.enUS.lua
+
+WowLua.lua
+FAIAP.lua
+WowLua.xml
+WowLua_Config.lua
